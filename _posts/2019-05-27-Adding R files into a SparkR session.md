@@ -1,8 +1,9 @@
 ---
 title:  "Adding R files into a SparkR session"
-date:   2019-01-18 06:48:00
-categories: [data]
-tags: [R,Spark,SparkR,Zeppelin, HDFS]
+date:   2019-05-27 06:48:00
+categories: []
+tags: [SparkR, HDFS]
+comments: true
 ---
 
 Is not so easy to find examples with SparkR when Spark (Scala) and PySPark are leading between communities. I'm trying to bring an example about how to load and R file into Spark.
@@ -70,4 +71,4 @@ That's it, you can centralized you code and add it into a spark session.
 
 ## References
 
-SparkR - AddFile [https://spark.apache.org/docs/latest/api/R/spark.addFile.html]
+[SparkR - AddFile](https://spark.apache.org/docs/latest/api/R/spark.addFile.html)
